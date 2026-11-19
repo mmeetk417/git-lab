@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(void) {
-    printf("Hello branch\n");
+    printf("Hello B\n");
     return 0;
 }
